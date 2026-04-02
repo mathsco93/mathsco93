@@ -1,40 +1,44 @@
 # Olá, eu sou o Maths! 👋
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/mathsco93?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.limit=6&theme=tokyonight" width="100%" alt="Metrics" />
-</div>
+### 🎓 Estudante de Ciência de Dados | 🐧 Arch Linux (CachyOS) 
 
-### 🛠️ Tecnologias e Ferramentas
+---
+
+### 📊 Atividade no GitHub
+<p align="left">
+  <img src="https://img.shields.io/github/followers/mathsco93?label=Seguidores&style=for-the-badge&color=7aa2f7&logo=github" />
+  <img src="https://img.shields.io/github/stars/mathsco93?label=Stars%20Totais&style=for-the-badge&color=e0af68&logo=github" />
+  <img src="https://img.shields.io/github/repo-size/mathsco93/NOME_DE_UM_REPO_SEU?label=Repo%20Destaque&style=for-the-badge&color=9ece6a&logo=github" />
+</p>
+
+### 🛠️ Toolbox (Stack Tecnológica)
 
 **Linguagens & Web**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Data Science & Ferramentas**
+**Data Science & OS**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Vamos nos conectar?
-
-<div align="left">
-  <a href="mailto:mathco93@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<p align="center">
-  <i>"No xadrez, como na ciência de dados, a melhor jogada depende sempre da análise do contexto."</i>
+### 📫 Contato
+<p align="left">
+  <a href="mailto:mathco93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathsco93&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
+</div>
