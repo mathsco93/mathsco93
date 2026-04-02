@@ -1,9 +1,7 @@
 # Olá, eu sou o Maths! 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathsco93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsco93&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://metrics.lecoq.io/mathsco93?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.limit=6&theme=tokyonight" width="100%" alt="Metrics" />
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas
